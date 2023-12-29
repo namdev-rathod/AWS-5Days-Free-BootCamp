@@ -5,7 +5,7 @@
 # Day-1 : Real-Time Troubleshooting With Day To Day Activities
  - About Me
  - EC2 : Disk, Performance, Logs, Termination Protection, Daily Backup
- - Cost Optimization For EC2
+ - Migration of EC2 
 
 # Day-2 : Real-Time Troubleshooting With Day To Day Activities
  - Load Balancer
@@ -23,10 +23,12 @@
  - VPC Endpoints
 
 # Day-5 : Real-Time Troubleshooting With Day To Day Activities
-
-
+ - AWS Migration Strategy - EC2, DB
+ - AWS Infra Cost Optimization
+ - AWS Best Practices To Follow
 
 # Day-6 : Real-Time Troubleshooting With Day To Day Activities
+ - 
 
 
 # Day-7 : Real-Time Troubleshooting With Day To Day Activities
