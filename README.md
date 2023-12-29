@@ -37,6 +37,7 @@
  - Resume Preparation
  - How To Apply For Right Jobs
  - How To Increase Professional Network
+ - How AI Tools Like ChatGPT helps in day to day life as a DevOps or Cloud Engineer?
 
 # Day-7 : Q & A
  - Question & Answer
