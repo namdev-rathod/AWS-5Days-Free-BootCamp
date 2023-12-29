@@ -2,24 +2,31 @@
 > [!NOTE]  
 > This is just for a educational purpose. Please execute each steps on your own risk.
 
-# Day-1
+# Day-1 : Real-Time Troubleshooting With Day To Day Activities
  - About Me
- - Introduction On AWS Important Services
- - Best Way To Learn - Theoratical + Practicals, Project Base Learning small to complex
+ - EC2 : Disk, Performance, Logs, Termination Protection, Daily Backup
+ - Cost Optimization For EC2
 
-# Day-2 : EC2, Load Balancer (Real Time Issues, Day To Day Activities)
- - EC2 - Real Time Issues, Day to Day Activities
- - Load Balancer - Real Time Issues
+# Day-2 : Real-Time Troubleshooting With Day To Day Activities
+ - Load Balancer
+ - S3 Bucket
+ - IAM Role/User with Custom Policy
 
-# Day-3
+# Day-3 : Real-Time Troubleshooting With Day To Day Activities
+ - RDS : Single vs Cluster, Replication, Master-Slave Failover, Backup & Restore
+ - CloudWatch, CloudTrail
+ - SNS Topic
 
-# Day-4
+# Day-4 : Real-Time Troubleshooting With Day To Day Activities
+ - VPC
+ - Security
+ - VPC Endpoints
+
+# Day-5 : Real-Time Troubleshooting With Day To Day Activities
 
 
-# Day-5
+
+# Day-6 : Real-Time Troubleshooting With Day To Day Activities
 
 
-# Day-6
-
-
-# Day-7
+# Day-7 : Real-Time Troubleshooting With Day To Day Activities
