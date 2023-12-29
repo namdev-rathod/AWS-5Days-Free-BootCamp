@@ -38,4 +38,4 @@
  - How To Increase Professional Network
 
 # Day-7 : Q & A
- - Question & Answer Session
+ - Question & Answer
