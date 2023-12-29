@@ -31,6 +31,7 @@
  - AWS Migration Strategy - EC2, DB
  - AWS Infra Cost Optimization
  - AWS Best Practices To Follow
+ - How to deal with Production release or any changes on prod env
 
 # Day-6 : Interview Preparation Tips & Tricks
  - Resume Preparation
