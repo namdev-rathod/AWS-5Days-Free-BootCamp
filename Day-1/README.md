@@ -3,7 +3,7 @@
  - Introduction
     - 12+ years of IT Industry Experience
     - Worked on multiple tech stacks like AWS, Linux, Database, Nagios, Grafan and DevOps Tools
-    - Worked on diversified industry like Web Hosting, Data Center, Customer Support, Banking Sector, Product  base, support services etc.
+    - Worked with diversified domain like Web Hosting, Data Center, Customer Support, Banking, Product, support services etc.
     - I have certified with Redhat, AWS & Kubernetes
     - I have delivered more than 20+ projects. 
     
