@@ -20,7 +20,7 @@
         - Internal Stand ups
         - Sprint Planning etc
 
-    - EC2
+ - EC2
         - Requirement Gathering
         - Use Cases
         - Costing 
