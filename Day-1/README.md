@@ -21,9 +21,10 @@
         - Sprint Planning etc
 
  - EC2
+    - Day to day activities and issues
         - Requirement Gathering
-        - Use Cases
-        - Costing 
-        - Backup Plan
+            - Use Cases
+            - Costing 
+            - Backup Plan
         - Real Time Issues
         - Migration Plan
