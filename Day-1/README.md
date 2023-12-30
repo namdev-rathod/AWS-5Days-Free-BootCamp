@@ -20,10 +20,10 @@
         - Internal Stand ups
         - Sprint Planning etc
 
- - EC2
-    - Requirement Gathering
-    - Use Cases
-    - Costing 
-    - Backup Plan
-    - Real Time Issues
-    - Migration Plan
+    - EC2
+        - Requirement Gathering
+        - Use Cases
+        - Costing 
+        - Backup Plan
+        - Real Time Issues
+        - Migration Plan
