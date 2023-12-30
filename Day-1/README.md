@@ -5,7 +5,7 @@
     - Worked on multiple tech stacks like AWS, Linux, Database, Nagios, Grafan and DevOps Tools
     - Worked on diversified industry like Web Hosting, Data Center, Customer Support, Banking Sector, Product  base, support services etc.
     - I have certified with Redhat, AWS & Kubernetes
-    - I have released more than 50+ projects. 
+    - I have delivered more than 50+ projects. 
 
  - Project Overview
     - Every project has below things
