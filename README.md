@@ -9,7 +9,7 @@
 # Day-1 : Real-Time Troubleshooting With Day To Day Activities
  - About Me
  - Project Overview
- - EC2 : Disk, Performance, Logs, Termination Protection, Daily Backup
+ - EC2 : Disk, Performance, Logs, Daily Backup
  - Migration of EC2 
 
 # Day-2 : Real-Time Troubleshooting With Day To Day Activities
