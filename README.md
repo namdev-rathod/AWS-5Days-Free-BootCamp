@@ -25,7 +25,6 @@
 # Day-4 : Real-Time Troubleshooting With Day To Day Activities
  - VPC
  - Security
- - VPC Endpoints
 
 # Day-5 : Some Important Things
  - AWS Migration Strategy - EC2, DB
