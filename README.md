@@ -41,3 +41,21 @@
 
 # Day-7 : Q & A
  - Question & Answer
+
+# What Next?
+- **Upcoming Projects**
+    - AWS Zero To Hero:- https://github.com/namdev-rathod/AWS-Zero-To-Hero
+    - Git Zero To Here
+    - Jenkins Zero To Hero
+    - Docker Zero To Hero
+    - Kubernetes Zero To Hero
+    - Terraform Zero To Hero
+    - Monitoring Zero To Hero
+    - DevOps Interview Questions
+    - Project Management
+    - Jira Workflow
+    - How To Handle Client Calls?
+    - Tips & Tricks For Internal Meetings, Daily Standups
+    - Tips & Tricks For Escalation Process
+    - Tips & Tricks For RCA Report
+    - Tips & Tricks For Free Certifications 
