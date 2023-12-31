@@ -12,6 +12,8 @@
         - YouTube :- https://www.youtube.com/@namdev.devops
     - For 1:1 Appointment & Product Purchase
         - Topmate :- https://topmate.io/namdevrathod
+        - 800+ DevOps Real Time Interview Questions - https://topmate.io/namdevrathod/710907
+        - DevOps Real Time Project Document - https://topmate.io/namdevrathod/709679
     - For Job Openings
         - WhatsApp :- https://chat.whatsapp.com/F9hORbxF2z29iEyBdLUtwb
         - Telegram :- https://t.me/jobswithnamdev
@@ -33,10 +35,21 @@
         - Sprint Planning etc
 
  - EC2
-    - Day to day activities and issues
+    - Day To Day Activities
+        - Resouce Monitoring
+        - Logs Monitoring
+        - Resources change request
+        - Provision request
+        - Backup & Restore
+
+    - EC2 Implementations
         - Requirement Gathering
             - Use Cases
             - Costing 
             - Backup Plan
-        - Real Time Issues
-        - Migration Plan
+            - Traffic Pattern
+            - Long term project or short term
+    - Real Time Issues
+        - Application Slowness
+        - Disk Space Full
+        - System Checks Failure
