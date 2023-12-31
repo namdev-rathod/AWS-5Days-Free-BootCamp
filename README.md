@@ -3,7 +3,7 @@
 > This is just for a educational purpose. Please execute each steps on your own risk.
 
 # Where I can attend this session?
-> YouTube Live From 02 Jan 2024 to 8th Jan 2024 09:00 PM to 10:00 PM IST.
+> YouTube Live **From 02 Jan 2024 to 8th Jan 2024 09:00 PM to 10:00 PM IST.**
 > YouTube Link:- https://www.youtube.com/@namdev.devops
 
 # Day-1 : Real-Time Troubleshooting With Day To Day Activities
