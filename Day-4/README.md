@@ -9,21 +9,21 @@
         - VPC Endpoints
 
 - **Migration**
-    - What is the migration?
+    - **What is the migration?**
         - Migrate resources from one location to another location.
 
-    - Why we migrate?
+    - **Why we migrate?**
         - Cost
         - Performance
         - Scalability
         - Quick Deployment
         - Quick Infra Provision
 
-    - Where to migrate?
+    - **Where to migrate?**
         - On-Premises --> Any Cloud
         - Cloud --> Cloud
         - Cloud --> On-Premises
-    - What resources need to migrate?
+    - **What resources need to migrate?**
         - Application (Servers/EC2)
         - Database (MySQL, PostGreSQl, MSSQL)
 
