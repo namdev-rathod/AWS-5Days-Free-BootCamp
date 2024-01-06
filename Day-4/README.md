@@ -79,6 +79,7 @@
         - Ensure application or database performance is not slow
         - Continously monitor application, database performance 
         - Apply cost saving plan for long term resources like EC2, RDS etc
+        
 
 
                 
