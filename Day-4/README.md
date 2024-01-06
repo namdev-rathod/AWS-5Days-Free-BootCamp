@@ -50,13 +50,13 @@
             - Reduce cost to delete unnecessary infrastructure resources
 
      - Tools To Use For Migration
-            - Server Migration Service
-            - AWS Migration Hub
-            - AWS Application Discovery Service
-            - CloudEndure 
-            - Database Migration Service
-            - DataSync
-            - Snowball(For larger data)
+        - Server Migration Service
+        - AWS Migration Hub
+        - AWS Application Discovery Service
+        - CloudEndure 
+        - Database Migration Service
+        - DataSync
+        - Snowball(For larger data)
 
     - Migration Planning
         - Discovery & Planning
