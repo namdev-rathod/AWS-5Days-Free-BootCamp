@@ -1,14 +1,14 @@
 # Day-4
 > Agenda
 
-- VPC
+- **VPC**
     - Day To Day Activities
         - Create & Manage VPC
         - Nat Gateway management
         - VPC Peering
         - VPC Endpoints
 
-- Migration
+- **Migration**
     - What is the migration?
         - Migrate resources from one location to another location.
 
@@ -27,14 +27,13 @@
         - Application (Servers/EC2)
         - Database (MySQL, PostGreSQl, MSSQL)
 
-    - Migration Types
+    - **Migration Types**
 
         - Rehost (Lift & Shift)
-            - Use Cases
-                - No any application changes required 
-                - Urgent migration needed
-                - legacy application on prem to Cloud
-                - when quick migration needed
+            - No any application changes required 
+            - Urgent migration needed
+            - legacy application on prem to Cloud
+            - when quick migration needed
 
         - Replatform/Refactor (lift, optimize, shift)
             - make a application related changes for better performance
@@ -49,7 +48,7 @@
             - Identify and decomission unnecessary application or services
             - Reduce cost to delete unnecessary infrastructure resources
 
-     - Tools To Use For Migration
+     - **Tools To Use For Migration**
         - Server Migration Service
         - AWS Migration Hub
         - AWS Application Discovery Service
@@ -58,7 +57,7 @@
         - DataSync
         - Snowball(For larger data)
 
-    - Migration Planning
+    - **Migration Planning**
         - Discovery & Planning
         - Before migration collect all the relevent information for source infra, app, database details
         - Plan submission to authorized person like Managers, DM/DH etc
@@ -74,7 +73,7 @@
         - Maintain infra and application security
         - Place monitoring
 
-    - Post Migration Activity
+    - **Post Migration Activity**
         - Ensure migrated application and database are working fine
         - Ensure application or database performance is not slow
         - Continously monitor application, database performance 
