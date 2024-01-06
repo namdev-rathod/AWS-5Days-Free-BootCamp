@@ -32,7 +32,6 @@
  - Interview Preparation
  - Q & A
 
-
 # What Next?
 - **Upcoming Projects**
     - AWS Zero To Hero:- https://github.com/namdev-rathod/AWS-Zero-To-Hero
