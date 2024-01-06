@@ -1,28 +1,27 @@
 # Day-5
 > Agenda
 
-- Migration Strategy
-    - For Application and Database ( Use Database Migration Service & Server Migration Service )
-        - Do proper planning for migration
-        - Collect all required inforamtion for current infra, workload, traffic etc
-        - Discuss with all respective teams
+- Resume Preparation
+- Interview Preparation
+- How To Apply For The Jobs
+- How To Increase Professional Network On Social Media
+- Best Way To Use AI Tools Like ChatGPT For Daily Work
+- Q & A
 
-- AWS Infra Cost Optimization
-    - Right size Instance
-    - Cost Saving Plan
-    - Monitoring Bill Frequently
-
-- AWS Best Practices To Follow
-    - IAM Policy 
-    - S3 Bucket Public Access
-    - Security Group Inbound Rules
-    - MFA For IAM 
-    - CloudTrail 
-    - AWS Budget Setup To Avoid Huge Bills
-    - Cost Saving Plan
-
-- Manage Production Release Process
-    - Follow Proper Process
-    - Good To Have Rollback Plan
-    - Follow Git Branching Strategy
-    - Post Release Monitoring - Application, Infra
+# What Next?
+- Upcoming Projects
+    - AWS Zero To Hero:- https://github.com/namdev-rathod/AWS-Zero-To-Hero
+    - Git Zero To Here
+    - Jenkins Zero To Hero
+    - Docker Zero To Hero
+    - Kubernetes Zero To Hero
+    - Terraform Zero To Hero
+    - Monitoring Zero To Hero
+    - DevOps Interview Questions
+    - Project Management
+    - Jira Workflow
+    - How To Handle Client Calls?
+    - Tips & Tricks For Internal Meetings, Daily Standups
+    - Tips & Tricks For Escalation Process
+    - Tips & Tricks For RCA Report
+    - Tips & Tricks For Free Certifications
