@@ -17,6 +17,11 @@
         - **Education**
             - Mention only higher one
         - **Certifications**
+            - Use Own Money
+            - Use Company Re-Imbursement Policy
+            - Free Voucher
+            - Use Discount Offer ( During Nov-Dec Month every year )
+
         - **Projects**
         - **Achievements**
         - **Use ATS Friendly Keywords In Job Role & Responsibilities**
@@ -86,7 +91,6 @@
 # What Next?
 - Upcoming Projects
     - AWS Zero To Hero:- https://github.com/namdev-rathod/AWS-Zero-To-Hero
-    - ChatGPT - Prompt Engineering
     - Git Zero To Here
     - Jenkins Zero To Hero
     - Docker Zero To Hero
